@@ -35,6 +35,13 @@ Sources: LinkedIn, Crunchbase, GitHub, official websites, etc.
     - 2022: Seed (YC W22)
 - Tagline: Developer-friendly, serverless vector database for AI applications. LanceDB is an open-source database for vector-search built with persistent storage, which greatly simplifies retrevial, filtering and management of embeddings.
 
+# [Mendaera](https://www.mendaera.com)
+- Founded: 2020, in San Carlos, CA
+- Cruise alumni: Jason Wilson (Co-Founder and CTO), Kevin Chu (Engineer)
+- Financing history:
+    - 2021: Seed (Operator Partners, Founders Fund, Lux Capital)
+- Tagline: Pain and uncertainty are lousy. Receiving care shouldn't be.
+
 # [Sematic](https://www.sematic.dev)
 - Founded: 2022, in San Francisco
 - Cruise alumni: Emmanuel Turlay (Founder and CEO), Joshua Bauer (Founding Engineer), Tudor Scurtu (Founding Engineer)
