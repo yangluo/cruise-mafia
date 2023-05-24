@@ -4,7 +4,7 @@ Companies founded by [Cruise](https://getcruise.com) alumni, also known as the "
 ---
 
 # [Aquarium Learning](https://www.aquariumlearning.com)
-- Founded: 2020, San Francisco
+- Founded: 2020, in San Francisco
 - Cruise alumni: Peter Gao (Co-founder and CEO), Quinn Johnson (Co-founder)
 - Financing history:
     - 2020/8: Seed (YC S20)
@@ -15,7 +15,12 @@ Companies founded by [Cruise](https://getcruise.com) alumni, also known as the "
 
 # LanceDB
 
-# Sematic
+# [Sematic](https://www.sematic.dev)
+- Founded: 2022, in San Francisco
+- Cruise alumni: Emmanuel Turlay (Founder and CEO), Joshua Bauer (Founding Engineer), Tudor Scurtu (Founding Engineer)
+- Financing history:
+    - 2022/11: Seed (Race Capital, YC S22, Oliver Cameron, etc.)
+- Tagline: The open-source *Continuous Machine Learning Platform*. End-to-end Python pipelines from your laptop to your cloud cluster in minutes. Tracked, reproducible, visualized. 
 
 ---
 
