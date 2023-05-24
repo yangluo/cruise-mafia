@@ -13,7 +13,12 @@ Companies founded by [Cruise](https://getcruise.com) alumni, also known as the "
 
 # Foxglove
 
-# LanceDB
+# [LanceDB](https://lancedb.com)
+- Founded: 2022, in San Francisco
+- Cruise alumni: Lei Xu (Co-Founder and CTO), Jai Chopra (Head of Product)
+- Financing history:
+    - 2022: Seed (YC W22)
+- Tagline: Developer-friendly, serverless vector database for AI applications. LanceDB is an open-source database for vector-search built with persistent storage, which greatly simplifies retrevial, filtering and management of embeddings.
 
 # [Sematic](https://www.sematic.dev)
 - Founded: 2022, in San Francisco
