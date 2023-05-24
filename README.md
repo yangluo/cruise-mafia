@@ -1,6 +1,8 @@
 # cruise-mafia
 Companies founded by [Cruise](https://getcruise.com) alumni, also known as the "Cruise Mafia".
 
+Sources: LinkedIn, Crunchbase, GitHub, official websites, etc.
+
 ---
 
 # [Aquarium Learning](https://www.aquariumlearning.com)
@@ -18,6 +20,13 @@ Companies founded by [Cruise](https://getcruise.com) alumni, also known as the "
     - 2022/1: Seed (Amplify Partners)
     - 2022/10: Series A (Eclipse Ventures, Amplify Partners, Kyle Vogt)
 - Tagline: The leading *observability* platform for robotics developers. Foxglove brings advanced data infrastructure and visualization to any robotics framework, supercharging your development and debugging.
+
+# [Graft](https://www.graft.com/)
+- Founded: 2021, in San Francisco
+- Cruise alumni: Brian Calvert (Co-Founder)
+- Financing history:
+    - 2022/5: Pre Seed (Google Ventures, NEA, etc.)
+- Tagline: Simplify your AI strategy. Graft is a modern AI platform, supporting the full production lifecycle of AI from data ingestion through deployment and monitoring. No infrastructure or ML skills required.
 
 # [LanceDB](https://lancedb.com)
 - Founded: 2022, in San Francisco
