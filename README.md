@@ -25,7 +25,7 @@ Sources: LinkedIn, Crunchbase, GitHub, official websites, etc.
 - Founded: 2021, in San Francisco
 - Cruise alumni: Brian Calvert (Co-Founder)
 - Financing history:
-    - 2022/5: Pre Seed (Google Ventures, NEA, etc.)
+    - 2022/5: Pre-Seed (Google Ventures, NEA, etc.)
 - Tagline: Simplify your AI strategy. Graft is a modern AI platform, supporting the full production lifecycle of AI from data ingestion through deployment and monitoring. No infrastructure or ML skills required.
 
 # [LanceDB](https://lancedb.com)
@@ -47,7 +47,14 @@ Sources: LinkedIn, Crunchbase, GitHub, official websites, etc.
 - Cruise alumni: Emmanuel Turlay (Founder and CEO), Joshua Bauer (Founding Engineer), Tudor Scurtu (Founding Engineer)
 - Financing history:
     - 2022/11: Seed (Race Capital, YC S22, Oliver Cameron, etc.)
-- Tagline: The open-source *Continuous Machine Learning Platform*. End-to-end Python pipelines from your laptop to your cloud cluster in minutes. Tracked, reproducible, visualized. 
+- Tagline: The open-source *Continuous Machine Learning Platform*. End-to-end Python pipelines from your laptop to your cloud cluster in minutes. Tracked, reproducible, visualized.
+
+# [Yard](https://yard.bot)
+- Founded: 2021, in Huntsville, AL
+- Cruise alumni: Divya Thakur (Co-Founder), Logan Anderson (Co-Founder)
+- Financing history:
+    - 2022/5: Pre-Seed
+- Tagline: The Future Of Lawn Care. Don't Mow Your Lawn. Let our team of humans and robots provide your yard with the care it deserves.
 
 ---
 
