@@ -66,6 +66,15 @@ Also, if there are too many Cruise alumni in one company (awesome!), please only
     - 2022: Seed (YC S22)
 - Tagline: Scale up your support in Slack. Unthread is a Slack inbox that turns support requests into prioritized tickets with assignments and SLAs.
 
+# [Verdant](https://www.verdantrobotics.com)
+- Founded: 2018, in Hayward, CA
+- Cruise alumni: Gabe Sibley (Co-Founder and CEO), Lawrence Ibarria (Co-Founder and COO)
+- Financing history:
+    - 2019/7: Seed (E2JDJ)
+    - 2019/10: Series A (AgFunder, Autotech Ventures)
+    - 2022/11: Series A (Cleveland Avenue, AgFunder, Autotech Ventures, etc.)
+- Tagline: The most advanced multi-action robotic farming implement, designed for superhuman farming.
+
 # [Yard Robotics](https://yard.bot)
 - Founded: 2021, in Huntsville, AL
 - Cruise alumni: Divya Thakur (Co-Founder)
