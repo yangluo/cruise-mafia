@@ -3,6 +3,13 @@ Companies founded by [Cruise](https://getcruise.com) alumni, also known as the "
 
 Sources: LinkedIn, Crunchbase, GitHub, official websites, etc.
 
+If you want to contribute, please submit a PR and make sure to
+- Sort company names in alphabetical order
+- Cite sources of information
+- Respect the company founders/owners for subjective information, such as tagline
+
+Also, if there are too many Cruise alumni in one company (which would be awesome!), please only include: co-founders, founding team members or executives.
+
 ---
 
 # [Aquarium Learning](https://www.aquariumlearning.com)
@@ -15,7 +22,7 @@ Sources: LinkedIn, Crunchbase, GitHub, official websites, etc.
 
 # [Foxglove](https://foxglove.dev)
 - Founded: 2021, in San Francisco
-- Cruise alumni: Adrian Macneil (Co-Founder and CEO), Roman Shtylman (Co-Founder)
+- Cruise alumni: Adrian Macneil (Co-Founder and CEO), Roman Shtylman (Co-Founder), Jacob Bandes-Storch (First Engineer)
 - Financing history:
     - 2022/1: Seed (Amplify Partners)
     - 2022/10: Series A (Eclipse Ventures, Amplify Partners, Kyle Vogt)
@@ -44,16 +51,17 @@ Sources: LinkedIn, Crunchbase, GitHub, official websites, etc.
 
 # [Sematic](https://www.sematic.dev)
 - Founded: 2022, in San Francisco
-- Cruise alumni: Emmanuel Turlay (Founder and CEO), Joshua Bauer (Founding Engineer), Tudor Scurtu (Founding Engineer)
+- Cruise alumni: Emmanuel Turlay (Founder and CEO), Joshua Bauer (Founding Engineer), Tudor Scurtu (Founding Engineer), Chance An (Founding Engineer)
 - Financing history:
     - 2022/11: Seed (Race Capital, YC S22, Oliver Cameron, etc.)
 - Tagline: The open-source *Continuous Machine Learning Platform*. End-to-end Python pipelines from your laptop to your cloud cluster in minutes. Tracked, reproducible, visualized.
 
 # [Unthread](https://unthread.io/)
-- Founded: TODO, in New York
-- Cruise alumni: Tom Bachant
-- Financing history: TODO
-- Tagline: TODO
+- Founded: 2022, in New York
+- Cruise alumni: Tom Bachant (Co-Founder and CEO), Jake McCloskey (Co-Founder and CTO)
+- Financing history:
+    - 2022: Seed (YC S22)
+- Tagline: Scale up your support in Slack. Unthread is a Slack inbox that turns support requests into prioritized tickets with assignments and SLAs.
 
 # [Yard Robotics](https://yard.bot)
 - Founded: 2021, in Huntsville, AL
