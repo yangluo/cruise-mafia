@@ -8,13 +8,16 @@ If you want to contribute, please submit a PR and make sure to
 - Cite sources of information
 - Respect the company founders/owners for subjective information, such as tagline
 
-Also, if there are too many Cruise alumni in one company (which would be awesome!), please only include: co-founders, founding team members or executives.
+Also, if there are too many Cruise alumni in one company (awesome!), please only include:
+- Co-Founders or founding team members
+- Executives (e.g., VP of Engineering, Head of Product)
+- Or if the person himself/herself was a notable alumni (e.g., Director of Robotics) in Cruise's history
 
 ---
 
 # [Aquarium Learning](https://www.aquariumlearning.com)
 - Founded: 2020, in San Francisco
-- Cruise alumni: Peter Gao (Co-founder and CEO), Quinn Johnson (Co-founder)
+- Cruise alumni: Peter Gao (Co-Founder and CEO), Quinn Johnson (Co-Founder)
 - Financing history:
     - 2020/8: Seed (YC S20)
     - 2021/2: Seed (Sequoia, Kyle Vogt, etc.)
