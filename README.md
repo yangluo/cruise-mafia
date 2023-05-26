@@ -49,12 +49,18 @@ Sources: LinkedIn, Crunchbase, GitHub, official websites, etc.
     - 2022/11: Seed (Race Capital, YC S22, Oliver Cameron, etc.)
 - Tagline: The open-source *Continuous Machine Learning Platform*. End-to-end Python pipelines from your laptop to your cloud cluster in minutes. Tracked, reproducible, visualized.
 
-# [Yard](https://yard.bot)
+# [Unthread](https://unthread.io/)
+- Founded: TODO, in New York
+- Cruise alumni: Tom Bachant
+- Financing history: TODO
+- Tagline: TODO
+
+# [Yard Robotics](https://yard.bot)
 - Founded: 2021, in Huntsville, AL
-- Cruise alumni: Divya Thakur (Co-Founder), Logan Anderson (Co-Founder)
+- Cruise alumni: Divya Thakur (Co-Founder)
 - Financing history:
     - 2022/5: Pre-Seed
-- Tagline: The Future Of Lawn Care. Don't Mow Your Lawn. Let our team of humans and robots provide your yard with the care it deserves.
+- Tagline: We mow lawns with robots.
 
 ---
 
