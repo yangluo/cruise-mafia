@@ -23,6 +23,14 @@ Also, if there are too many Cruise alumni in one company (awesome!), please only
     - 2021/2: Seed (Sequoia, Kyle Vogt, etc.)
 - Tagline: The Platform For ML Data Operations. Aquarium helps teams streamline the process of finding issues, validating fixes, and adding data for their machine learning datasets.
 
+# [Beacon AI](https://beaconai.co)
+- Founded: 2021, in San Francisco
+- Cruise alumni: Matt Cox (Founder and CEO), Kiana Lo (Head of Talent Acquisition), Avinash Nair (former Co-Founder)
+- Financing history:
+    - 2021/7: Pre-Seed (Mischief et al.)
+    - 2021/8: Seed (Apollo Projects et al.)
+- Tagline: Beacon AI is building the future of flight safety for commercial and private fleets.
+
 # [Foxglove](https://foxglove.dev)
 - Founded: 2021, in San Francisco
 - Cruise alumni: Adrian Macneil (Co-Founder and CEO), Roman Shtylman (Co-Founder), Jacob Bandes-Storch (First Engineer)
