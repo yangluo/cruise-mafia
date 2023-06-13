@@ -31,6 +31,13 @@ Also, if there are too many Cruise alumni in one company (awesome!), please only
     - 2021/8: Seed (Apollo Projects et al.)
 - Tagline: Beacon AI is building the future of flight safety for commercial and private fleets.
 
+# [Cellulose](https://www.cellulose.ai/)
+- Founded: 2023, in San Francisco, CA
+- Cruise alumni: Zheng Hao (Founder & CEO)
+- Financing history:
+    - 2023: Pre-Seed
+- Tagline: Cellulose helps machine learning engineers understand, fine tune, and improve the performance of their models.
+
 # [Foxglove](https://foxglove.dev)
 - Founded: 2021, in San Francisco
 - Cruise alumni: Adrian Macneil (Co-Founder and CEO), Roman Shtylman (Co-Founder), Jacob Bandes-Storch (First Engineer)
