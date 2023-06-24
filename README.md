@@ -46,6 +46,13 @@ Also, if there are too many Cruise alumni in one company (awesome!), please only
     - 2022/10: Series A (Eclipse Ventures, Amplify Partners, Kyle Vogt)
 - Tagline: The leading *observability* platform for robotics developers. Foxglove brings advanced data infrastructure and visualization to any robotics framework, supercharging your development and debugging.
 
+# [Galileo AI](https://www.usegalileo.ai/)
+- Founded: 2022, in San Francisco
+- Cruise alumni: Helen Zhou (Co-Founder)
+- Financing history:
+    - 2022/10: Pre-Seed (South Park Commons, etc.)
+- Tagline: Idea to design in an instant, powered by AI
+
 # [Graft](https://www.graft.com/)
 - Founded: 2021, in San Francisco
 - Cruise alumni: Brian Calvert (Co-Founder)
