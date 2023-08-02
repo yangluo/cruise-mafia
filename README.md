@@ -23,6 +23,13 @@ Also, if there are too many Cruise alumni in one company (awesome!), please only
     - 2021/2: Seed (Sequoia, Kyle Vogt, etc.)
 - Tagline: The Platform For ML Data Operations. Aquarium helps teams streamline the process of finding issues, validating fixes, and adding data for their machine learning datasets.
 
+# [Axilla](https://www.axilla.io)
+- Founded: 2023, in San Francisco
+- Cruise alumni: Nicholas Charriere (Founder and CEO), Ben Reinhart (Founder and CTO)
+- Financing history:
+    - 2023/8: Seed (YC S23)
+- Tagline: Axilla is a framework for the AI engineer of the future: a product-focused TypeScript developer.
+
 # [Beacon AI](https://beaconai.co)
 - Founded: 2021, in San Francisco
 - Cruise alumni: Matt Cox (Founder and CEO), Kiana Lo (Head of Talent Acquisition), Avinash Nair (former Co-Founder)
